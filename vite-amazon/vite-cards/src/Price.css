@@ -1,0 +1,10 @@
+.Price{
+    background-color: rgb(255, 225, 0);
+    color: black;
+    border-bottom-left-radius: 14px;
+    border-bottom-right-radius: 14px;
+    margin-top: 45px;
+}
+.oldP{
+    text-decoration: line-through;
+}
